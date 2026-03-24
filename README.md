@@ -2,7 +2,7 @@
 
 ## 📜 Certificate
 
-[View Certificate](./mastercard certificate.pdf)
+https://github.com/sreessyyam/mastercard-cybersecurity-job-simulation/blob/main/mastercard%20certificate.pdf
 
 ## 🧠 Project Overview
 
